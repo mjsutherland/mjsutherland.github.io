@@ -1,7 +1,7 @@
 p {
   color:red
   font-family:Sans-serif;
-  color:silver
+  color:white
   display:block;
   margin-top:30px;
 }
@@ -9,4 +9,10 @@ p {
 body {
   background-color:purple;
   font-size: 1em;
+}
+
+.centred {
+  position:fixed;
+  top:45%;
+  left:45%;
 }
