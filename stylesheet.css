@@ -1,3 +1,8 @@
 p {
-color:red
+  color:red
+  font-family:Sans-serif;
+}
+
+body {
+  background-color:purple;
 }
