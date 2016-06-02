@@ -1,9 +1,9 @@
 p {
-  color:red
   font-family:Sans-serif;
   color:white
   display:block;
   margin-top:30px;
+  text-align: center;
 }
 
 body {
@@ -11,8 +11,4 @@ body {
   font-size: 1em;
 }
 
-.centred {
-  position:fixed;
-  top:45%;
-  left:45%;
-}
+
