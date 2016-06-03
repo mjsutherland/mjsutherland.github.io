@@ -21,22 +21,29 @@ img{
 
 div{
   display:inline-block;
+  border:2px black solid;
 }
 
 #aa {
   font-family:Sans-serif;
   color:green;
   font-size:200%;
+  height:300px;
+  width:50px;
 }
 
 #bb {
   font-family:Sans-serif;
   color:white;
   font-size:200%;
+  height:100px;
+  width:50px;
 }
 
 #cc {
   font-family:Sans-serif;
   color:yellow;
   font-size:200%;
+  height:200px;
+  width:50px;
 }
