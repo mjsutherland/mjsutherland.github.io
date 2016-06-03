@@ -29,16 +29,16 @@ div{
   color:green;
   font-size:200%;
   height:300px;
-  width:50px;
+  width:150px;
   background-color:white;
 }
 
 #bb {
   font-family:Sans-serif;
-  color:white;
+  color:black;
   font-size:200%;
   height:100px;
-  width:50px;
+  width:150px;
   background-color:yellow;
 }
 
@@ -47,6 +47,6 @@ div{
   color:yellow;
   font-size:200%;
   height:200px;
-  width:50px;
+  width:150px;
   background-color:green;
 }
