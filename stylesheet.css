@@ -1,8 +1,11 @@
-#text {
+#textID {
+  margin-top:50px;
+}
+
+.textCLASS {
   font-family:Sans-serif;
   color:silver;
   display:block;
-  margin-top:50px;
   text-align: center;
 }
 
@@ -14,7 +17,7 @@ body {
 img{
   margin-top:50px;
   width:45%;
-  float: center;
+  position: center;
 }
 
 
