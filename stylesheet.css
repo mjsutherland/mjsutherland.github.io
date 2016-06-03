@@ -1,12 +1,9 @@
-#textID {
-  margin-top:50px;
-}
-
-.textCLASS {
+.text {
   font-family:Sans-serif;
   color:silver;
   display:block;
   text-align: center;
+  margin-top:50px;
 }
 
 body {
@@ -16,9 +13,9 @@ body {
 
 img{
   margin-top:50px;
-  width:45%;
-  position: center;
-  border 20px red solid
+  width:70%;
+  display: center;
+  border 20px silver solid
 }
 
 
