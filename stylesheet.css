@@ -19,6 +19,10 @@ img{
   border: 20px silver solid;
 }
 
+div{
+  display:inline-block;
+}
+
 #aa {
   font-family:Sans-serif;
   color:green;
