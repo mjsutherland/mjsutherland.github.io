@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>work in progress</title>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <p class="text">This page is a sandbox area to try new stuff. Don't be surprised if it doesn't work</p>
+  </body>
+</html>
