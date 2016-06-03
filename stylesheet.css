@@ -30,6 +30,7 @@ div{
   font-size:200%;
   height:300px;
   width:50px;
+  background-color:white;
 }
 
 #bb {
@@ -38,6 +39,7 @@ div{
   font-size:200%;
   height:100px;
   width:50px;
+  background-color:yellow;
 }
 
 #cc {
@@ -46,4 +48,5 @@ div{
   font-size:200%;
   height:200px;
   width:50px;
+  background-color:green;
 }
