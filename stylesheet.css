@@ -19,4 +19,8 @@ img{
   border: 20px silver solid;
 }
 
-
+a {
+  font-family:Sans-serif;
+  color:green;
+  font-size:200%;
+}
