@@ -8,6 +8,9 @@ if (computerChoice < 0.34) {
 	computerChoice = "scissors";
 } console.log("Computer: " + computerChoice);
 
+console.log("You: " +userChoice);
+compare(userChoice,computerChoice);
+
 
 var compare = function(choice1, choice2) {
     if (choice1 === choice2) {
@@ -38,5 +41,7 @@ var compare = function(choice1, choice2) {
         }
     }
 };
+
+
 
 
