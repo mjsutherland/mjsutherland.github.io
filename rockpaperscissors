@@ -43,5 +43,16 @@ var compare = function(choice1, choice2) {
 };
 
 
+Suggestions to go further:
+What if a user makes an inappropriate choice like 'dog'? How can we extend the function to handle that?
+
+What if players in the game could also choose Rope in this game?
+
+In this version, if both players make the same choice, the game returns a tie. What if the game didn't end there but instead asked both players for new choices?
+
+Also, instead of saying "paper (or whatever) wins" say "Computer wins with paper" or "You win with rock"
+
+Also, do a "best of 3 (or 5, or whatever number) and keep a tally
+
 
 
