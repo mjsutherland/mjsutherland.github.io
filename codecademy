@@ -1,1 +1,27 @@
+search text for your name
+/*jshint multistr:true */
+var text = "blah Mike blah blah \
+blah blah Mike blah";
+var myName ="Mike";
+var hits =[];
 
+for (var i=0;i<text.length;i++){
+    if (text[i]===myName[0]){
+        for (var j=i;j<myName.length+i;j++){
+            hits.push(text[j]);
+        };
+        
+    };
+};
+if (hits.length === 0){
+    console.log("Your name wasn't found!");
+    }
+    else {
+        console.log(hits);
+    }
+    
+
+Now, as we mentioned, this system isn't perfect. For instance, if the paragraph contains both "Eric" and "Eddie", we'll see this in our hits array:
+
+['E','r','i','c','E','d','d','i','e'];
+Think about how you might fine-tune this program to make sure it only finds exact matches for your name. Search the Internet to see if there are any built-in JavaScript string methods that can help!
