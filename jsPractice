@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>jsPRactice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      <p {color:green;}
+    </style>
+  </head>
+  <body>
+    
+    <p>Proof that this is working</p>
+    
+    <script>
+
+    </script>
+    
+    <p>After the script</p>
+    
+  </body>
+</html>
 
