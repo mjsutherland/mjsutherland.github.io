@@ -15,7 +15,7 @@
     <p id="demo2"></p>
 
     <script>
-      document.write("test3");
+      document.write("test1");
       var bob = {
         firstName: "Bob",
         lastName: "Jones",
@@ -33,10 +33,10 @@
       var contacts = [bob, mary];
       
       document.getElementById("demo1").innerHTML = bob.lastName;
+      document.getElementById("demo2").innerHTML = mary.email;
       
       for (var i in bob){
-        console.log(i);
-        console.log(bob[i]);
+        console.log(i + bob[i]);
       }
 
     </script>
